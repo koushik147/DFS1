@@ -1,3 +1,5 @@
+#TimeComplexity: O(n)
+#SpaceComplexity: O(n)
 class Solution:
     total_importance = 0 # declaring total importance to 0
     def getImportance(self, employees: List['Employee'], id: int) -> int:
